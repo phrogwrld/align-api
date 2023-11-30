@@ -1,0 +1,8 @@
+editon = "2021"
+hard_tabs = true
+fn_params_layout = "Vertical"
+fn_args_layout = "Vertical"
+newline_style = "Unix"
+use_field_init_shorthand = true
+# group_imports = "StdExternalCrate"  # This feature is unstable.
+max_width = 120
